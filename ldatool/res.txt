@@ -1,0 +1,14 @@
+                   tfidf
+toegangstesten  0.356970
+openingsplan    0.297295
+april           0.228647
+jonge           0.202847
+red             0.144247
+...                  ...
+frans           0.000000
+franse          0.000000
+fransen         0.000000
+fransman        0.000000
+überhaupt       0.000000
+
+[18288 rows x 1 columns]
